@@ -1,0 +1,5 @@
+.car-image {
+  height: 140px;
+  object-fit: cover;
+  background: #e5e7eb;   /* серый фон, пока SVG не загрузился */
+}
